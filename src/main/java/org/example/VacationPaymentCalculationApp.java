@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VacationPayCalculationApp {
+public class VacationPaymentCalculationApp {
     public static void main(String[] args) {
-        SpringApplication.run(VacationPayCalculationApp.class, args);
+        SpringApplication.run(VacationPaymentCalculationApp.class, args);
     }
 }
